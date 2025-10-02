@@ -7,6 +7,20 @@
 Proyecto final del diplomado de **DevSecOps**, que implementa un **microservicio de órdenes** junto con una **pipeline CI/CD completa**, integrando análisis de seguridad, despliegue con Docker y gestión de artefactos.
 
 ---
+<p align="center">
+  <img width="2669" height="585" alt="image" src="https://github.com/user-attachments/assets/7b9de3d0-defc-4731-9e4d-b842f6dbf9a3" />
+</p>
+
+<p align="center">
+  <img width="984" height="350" alt="image" src="https://github.com/user-attachments/assets/a64bbd11-befc-4ae6-aaf9-b55dd242a75a" />
+</p>
+
+<p align="center">
+  <img width="603" height="399" alt="image" src="https://github.com/user-attachments/assets/7f18e091-50c9-4190-a44a-20db933ecab8" />
+</p>
+
+
+---
 
 ## 📖 Descripción
 
